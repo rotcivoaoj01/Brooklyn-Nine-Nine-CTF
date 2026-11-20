@@ -67,6 +67,7 @@ Com a senha em mãos, fiz o acesso via SSH para procurar o arquivo com a primeir
 ```bash
 ssh jake@10.112.190.82
 ```
+A primeira Flag estado no caminho abaixo.
 
 <img width="349" height="46" alt="Screenshot From 2026-11-20 11-47-17" src="https://github.com/user-attachments/assets/728eac22-5092-46dd-a028-c9ab20a86b09" />
 
