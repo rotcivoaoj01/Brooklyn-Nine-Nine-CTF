@@ -92,4 +92,4 @@ cat /root/root.txt
 ```
 
 ***
-*(Basta copiar todo o conteúdo acima e salvar no seu arquivo com a extensão `.md`)*.
+
